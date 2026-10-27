@@ -1,28 +1,23 @@
-# CV_Example
+
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Luis Santiago Cucunuba Mendivelso
+**Profesión:** Analista y Desarrollador de Software.
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [lluisccucunuba@gmail.com](lluisccucunuba@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa XYZ** (2020 - Actualidad)
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio Nacional de Aprendizaje** (2026 - 2029)
+- Tecnologo Análisis y Desarrollo de Software ADSO
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
+- **Trabajo en equipo**
+- **Empatia**
 - **Habilidad 3**
 
 ---
